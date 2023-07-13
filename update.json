@@ -1,7 +1,11 @@
 {
- "version":"9.52",
-  "force_update":"false",       
-  "title":"Atualização disponível v9.52F 🛠️",
-  "description":"Uma nova atualização está disponível e incluí novos recursos e correções de bugs.",
-  "download":"https://www.nswhatsapp.org/2019/08/fouad-whatsapp-apk.html"
+	"version": "1.1",
+	"download": "https://www.whatsmods.com.br/2018/07/ns-whatsapp-atualizado.html",
+	"update": [
+		{
+			"languaje": "en",
+			"changelog": "https://raw.githubusercontent.com/updateswhats/WhatsUpdates/main/NSteste.html"
+		}
+
+	]
 }
